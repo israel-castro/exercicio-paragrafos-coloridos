@@ -1,0 +1,13 @@
+.texto {
+    margin: 40PX;
+    padding: 20PX;
+}
+
+.estilo-padrao {
+    background-color: #f5f5f5;
+    
+}
+
+.estilo-destacado {
+    background-color: #f0cce2;
+}    
